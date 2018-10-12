@@ -1,0 +1,19 @@
+body{
+	background-image: url('../a.jpg') ;
+	background-size: cover;
+    }
+#hello{
+	max-width: 100px;
+	max-height: 100px;
+	margin: 0 auto;
+}
+#login-modal.modal-dialog{
+	width: 350px;
+}
+
+#login-modal input[type=text],input[type=password]{
+	top:10px;
+}
+#c{
+	color:white;
+}
